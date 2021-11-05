@@ -3,8 +3,8 @@
   I Don't Know Many Languages, Since Every Time I Try To To Learn One, I Forget, And Don't Do It Again.<br />
   Here Are Some Things About Me:</p>
 <aboutme>
-<ul>👀 I’m interested in Rubik's Cubes</ul>
-<ul>🌱 I’m currently learning The C Programming Language</ul>
+<ul>👀 I Love Solving Rubik's Cubes</ul>
+<ul>🌱 I Am Not Currently Learning Any Programming Languages</ul>
 <ul>🐍 I'm very good at python programming</ul>  
 <ul>🤪 I'm an idiot</ul>
 </aboutme>
