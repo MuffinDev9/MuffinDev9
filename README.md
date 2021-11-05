@@ -6,6 +6,7 @@
 <ul>🌱 I Am Not Currently Learning Any Programming Languages</ul>
 <ul>🐍 I'm OK at python programming</ul>  
 <ul>🤪 I'm an idiot</ul>
+<p>My Friend Said You Should Subscribe To His Youtube Channel, So Here It Is: https://www.youtube.com/channel/UCMlwx5BO2uvKipo8iphTuvw</p>
 <!---
 MuffinDev9/MuffinDev9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
