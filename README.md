@@ -7,7 +7,7 @@ Here Are Some Things About Me:
  - 🐍 I'm OK at python programming
  - 🤪 I'm an idiot
 
-My Friend Said You Should Subscribe To His Youtube Channel, So Here It Is: https://www.youtube.com/channel/UCMlwx5BO2uvKipo8iphTuvw
+My Friend Said You Should Subscribe To His Youtube Channel, So Here It Is: https://www.youtube.com/channel/UCMlwx5BO2uvKipo8iphTuvw  
 If You Want, I Can Make Pixel Art For You, For Free!
 <!---
 MuffinDev9/MuffinDev9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
