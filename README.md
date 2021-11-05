@@ -1,6 +1,3 @@
-<head>
-  <link type="text/css"
-</head>
 <h1>Hello, I'm Muffindev9</h1>
 <p>I Am A Programmer, And I Love Coding In Python.<br />
   I Don't Know Many Languages, Since Every Time I Try To To Learn One, I Forget, And Don't Do It Again.<br />
