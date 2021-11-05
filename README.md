@@ -1,7 +1,7 @@
 <h1>Hello, I'm Muffindev9</h1>
-<p>I Am A Programmer, And I Love Coding In Python.</p>
-<p>I Don't Know Many Languages, Since Every Time I Try To To Learn One, I Forget, And Don't Do It Again.</p>
-<p>Here Are Some Things Abput Me:</p>
+<p>I Am A Programmer, And I Love Coding In Python.<br />
+  I Don't Know Many Languages, Since Every Time I Try To To Learn One, I Forget, And Don't Do It Again.<br />
+  Here Are Some Things About Me:</p>
 <ul>👀 I’m interested in Rubik's Cubes</ul>
 <ul>🌱 I’m currently learning The C Programming Language</ul>
 <ul>🐍 I'm very good at python programming</ul>  
